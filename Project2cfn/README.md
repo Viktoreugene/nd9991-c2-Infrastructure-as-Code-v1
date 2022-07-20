@@ -15,6 +15,6 @@ dscribed by the above script.
 
 Additionally, there is a snapshot of the website endpoint URL with a 'http://' prefix appended to it.
 
-Website URL: http://project-alb-1uxmy9wfu23c9-363705655.us-east-1.elb.amazonaws.com/
+Website URL: http://ourdemo-ALB-14DLZXQQGDVSL-1899492530.us-east-1.elb.amazonaws.com
 
-LoadBalancer DNS Name: Project-ALB-1UXMY9WFU23C9-363705655.us-east-1.elb.amazonaws.com
+LoadBalancer DNS Name: ourdemo-ALB-14DLZXQQGDVSL-1899492530.us-east-1.elb.amazonaws.com
